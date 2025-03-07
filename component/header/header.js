@@ -1,4 +1,4 @@
-let contadorProductos = 0;
+let contadorProductos = 5   ;
 
 function mostrarMenu() {
     let header = document.createElement("header");
